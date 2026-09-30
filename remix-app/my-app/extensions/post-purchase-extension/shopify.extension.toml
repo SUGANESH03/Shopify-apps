@@ -1,0 +1,11 @@
+name = "post-purchase-extension"
+type = "checkout_post_purchase"
+uid = "e33ecbbd-8ba3-42b9-b732-976f281f9c24ecaa1647"
+
+# [[metafields]]
+# namespace = "my-namespace"
+# key = "my-key"
+
+# [[metafields]]
+# namespace = "my-namespace"
+# key = "my-key-2"
